@@ -1,0 +1,3 @@
+﻿  gauss.cpp
+D:\uni\курс1\сем2\КУРСОВА\program\gauss\gauss.cpp(72,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  gauss.vcxproj -> D:\uni\курс1\сем2\КУРСОВА\program\gauss\x64\Debug\gauss.exe
